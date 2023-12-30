@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801264951582",
+    "project_id": "matchmate-cpbio8292",
+    "storage_bucket": "matchmate-cpbio8292.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801264951582:android:54edff208c4be40c51a90f",
+        "android_client_info": {
+          "package_name": "com.example.matchmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3hSDIWTZb_HwSurQaEz6x816A1r2ErpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
